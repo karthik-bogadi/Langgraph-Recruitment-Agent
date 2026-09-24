@@ -26,5 +26,3 @@ Python, LangGraph, LangChain, Groq (`openai/gpt-oss-120b`)
 | Python experience | Schedule interview |
 | 5 yrs, C++ | Reject |
 
-## Credits
-Based on a LangGraph tutorial video, adapted to use Groq.
